@@ -1,0 +1,38 @@
+Date,Time,Hazard Type,Confidence,Image Path
+2026-01-20,15:37:17,Crack,0.54,detected_images\hazard_2026-01-20_15-37-17.jpg
+2026-01-20,15:37:21,Crack,0.65,detected_images\hazard_2026-01-20_15-37-21.jpg
+2026-01-20,15:37:24,Crack,0.66,detected_images\hazard_2026-01-20_15-37-24.jpg
+2026-01-20,15:37:27,Crack,0.62,detected_images\hazard_2026-01-20_15-37-27.jpg
+2026-01-20,15:37:30,Crack,0.57,detected_images\hazard_2026-01-20_15-37-30.jpg
+2026-01-20,15:37:33,Pothole,0.79,detected_images\hazard_2026-01-20_15-37-33.jpg
+2026-01-20,15:37:36,Pothole,0.75,detected_images\hazard_2026-01-20_15-37-36.jpg
+2026-01-20,15:37:40,Pothole,0.51,detected_images\hazard_2026-01-20_15-37-40.jpg
+2026-01-20,15:37:43,Pothole,0.64,detected_images\hazard_2026-01-20_15-37-43.jpg
+2026-01-20,15:37:46,Pothole,0.68,detected_images\hazard_2026-01-20_15-37-46.jpg
+2026-01-20,15:37:50,Pothole,0.75,detected_images\hazard_2026-01-20_15-37-50.jpg
+2026-01-20,15:37:53,Open Manhole,0.75,detected_images\hazard_2026-01-20_15-37-53.jpg
+2026-01-20,15:37:56,Open Manhole,0.76,detected_images\hazard_2026-01-20_15-37-56.jpg
+2026-01-20,15:37:59,Open Manhole,0.80,detected_images\hazard_2026-01-20_15-37-59.jpg
+2026-01-20,15:38:56,Open Manhole,0.43,detected_images\hazard_2026-01-20_15-38-56.jpg
+2026-01-20,15:39:00,Pothole,0.54,detected_images\hazard_2026-01-20_15-39-00.jpg
+2026-01-20,15:39:09,Open Manhole,0.35,detected_images\hazard_2026-01-20_15-39-09.jpg
+2026-01-20,15:39:12,Pothole,0.50,detected_images\hazard_2026-01-20_15-39-12.jpg
+2026-01-20,15:39:50,Crack,0.70,detected_images\hazard_2026-01-20_15-39-50.jpg
+2026-01-20,15:39:53,Crack,0.79,detected_images\hazard_2026-01-20_15-39-53.jpg
+2026-01-20,15:39:56,Crack,0.78,detected_images\hazard_2026-01-20_15-39-56.jpg
+2026-01-20,15:40:17,Crack,0.27,detected_images\hazard_2026-01-20_15-40-17.jpg
+2026-01-20,15:40:20,Crack,0.51,detected_images\hazard_2026-01-20_15-40-20.jpg
+2026-01-20,15:40:23,Crack,0.44,detected_images\hazard_2026-01-20_15-40-23.jpg
+2026-01-20,15:40:26,Crack,0.52,detected_images\hazard_2026-01-20_15-40-26.jpg
+2026-01-20,15:40:43,Open Manhole,0.28,detected_images\hazard_2026-01-20_15-40-43.jpg
+2026-01-20,15:40:46,Crack,0.44,detected_images\hazard_2026-01-20_15-40-46.jpg
+2026-01-20,15:40:50,Open Manhole,0.29,detected_images\hazard_2026-01-20_15-40-50.jpg
+2026-01-20,15:40:53,Crack,0.74,detected_images\hazard_2026-01-20_15-40-53.jpg
+2026-01-20,15:41:12,Open Manhole,0.26,detected_images\hazard_2026-01-20_15-41-12.jpg
+2026-01-20,15:41:15,Open Manhole,0.42,detected_images\hazard_2026-01-20_15-41-15.jpg
+2026-01-20,15:41:18,Open Manhole,0.81,detected_images\hazard_2026-01-20_15-41-18.jpg
+2026-01-20,15:41:21,Open Manhole,0.45,detected_images\hazard_2026-01-20_15-41-21.jpg
+2026-01-20,15:41:24,Open Manhole,0.82,detected_images\hazard_2026-01-20_15-41-24.jpg
+2026-01-20,15:41:27,Open Manhole,0.38,detected_images\hazard_2026-01-20_15-41-27.jpg
+2026-01-20,15:41:30,Open Manhole,0.45,detected_images\hazard_2026-01-20_15-41-30.jpg
+2026-01-20,15:41:33,Open Manhole,0.81,detected_images\hazard_2026-01-20_15-41-33.jpg

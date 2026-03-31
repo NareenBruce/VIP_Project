@@ -1,0 +1,18 @@
+#create an env
+py -3.11 -m venv venv
+venv\Scricpts\activate
+
+#pip install
+cd backend
+pip install fastapi uvicorn ultralytics opencv-python pydantic python-multipart
+
+
+#to run
+1st terminal
+cd backend
+uvicorn main:app --reload
+
+2nd terminal
+cd frontend
+npm install
+npm run dev
